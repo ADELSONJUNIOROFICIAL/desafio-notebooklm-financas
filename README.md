@@ -1,3 +1,4 @@
+![Capa do Projeto](CAPA_LM.png)
 # 💰 NotebookLM: A Psicologia Financeira e o Planejamento Prático
 
 Este repositório é o resultado do desafio prático da DIO: "Explorando o NotebookLM para Aprendizagem Ativa". O projeto foca na análise profunda da obra **"A Psicologia Financeira"** de Morgan Housel, integrando conceitos comportamentais com as diretrizes técnicas de mercado para 2026.
